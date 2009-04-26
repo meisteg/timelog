@@ -1,0 +1,41 @@
+# INSTALL for phpwstimelog
+# $Id: INSTALL.txt,v 1.2 2006/03/12 17:22:05 blindman1344 Exp $
+
+IMPORTANT: phpwsTimeLog is a module for phpWebSite.  You have to
+install phpWebSite >= 0.10.0 first, phpwsTimeLog will not work with
+earlier versions of phpWebSite.  If you don't have phpWebSite installed,
+first get the code here:
+
+https://sourceforge.net/project/showfiles.php?group_id=15539
+
+Then follow the install instructions found in the INSTALL.txt included
+in the docs directory of that download.
+
+Once this is done then you can start installing phpwsTimeLog:
+
+1. Download the .tar.gz from a sourceforge mirror.  (There is also a .zip
+   file for Windows users.)
+
+2. Unpack the tarball with:
+    tar -xvzf module-phpwstimelog-*.tar.gz
+
+3. Move the new directory into your phpwebsite mod directory. For example,
+   if your phpwebsite directory is /home/httpd/htdocs, you would run:
+
+    mv phpwstimelog /home/httpd/htdocs/mod/phpwstimelog
+
+4. Go to your phpWS website and install Time Log from Boost.
+
+5. (optional) phpwsTimeLog has added entries into Menu Manager.  You can
+   go into the Menu Manager control panel and select the Menu that you would
+   like to add the phpwsTimeLog link to.  Once you are in the menu editing
+   screen click on the "Add Module Default" button.  On the resulting page
+   select the "Time Log" item from the drop-down box and add it.
+
+   You are golden.  phpwsTimeLog is now installed.
+
+
+If you are having trouble with these procedures please file a Support
+Request at our sourceforge.net project site:
+
+http://sourceforge.net/tracker/?group_id=81360&atid=706227

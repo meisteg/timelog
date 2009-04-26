@@ -1,0 +1,62 @@
+en:|:phpwstimelog
+a:|:Access to delete was denied due to lack of proper permissions.:|:Access to delete was denied due to lack of proper permissions.
+a:|:Access to edit settings was denied.:|:Access to edit settings was denied.
+a:|:Access to edit was denied due to lack of proper permissions.:|:Access to edit was denied due to lack of proper permissions.
+a:|:Access to save was denied due to lack of proper permissions.:|:Access to save was denied due to lack of proper permissions.
+a:|:Access to move was denied due to lack of proper permissions.:|:Access to move was denied due to lack of proper permissions.
+a:|:Actions:|:Actions
+a:|:Add New Entry:|:Add New Entry
+a:|:Add New Phase:|:Add New Phase
+a:|:Add Time Log Entry:|:Add Time Log Entry
+a:|:Allow Anonymous Viewing:|:Allow Anonymous Viewing
+a:|:Anonymous Viewing Denied:|:Anonymous Viewing Denied
+a:|:Anonymous viewing of the time log has been disabled.:|:Anonymous viewing of the time log has been disabled.
+a:|:Are you sure you want to delete this time log entry?:|:Are you sure you want to delete this time log entry?
+a:|:Comments:|:Comments
+a:|:Comments must be a string!:|:Comments must be a string!
+a:|:Delete:|:Delete
+a:|:Delta:|:Delta
+a:|:Delta Time:|:Delta Time
+a:|:Delta time became negative!  Check your values.:|:Delta time became negative!  Check your values.
+a:|:Down:|:Down
+a:|:Download:|:Download
+a:|:Edit:|:Edit
+a:|:Edit Phase:|:Edit Phase
+a:|:Edit Time Log Entry:|:Edit Time Log Entry
+a:|:End:|:End
+a:|:Filter Applied:|:Filter Applied
+a:|:Interruption:|:Interruption
+a:|:List Entries:|:List Entries
+a:|:Name:|:Name
+a:|:Names:|:Names
+a:|:No:|:No
+a:|:Order:|:Order
+a:|:Overview:|:Overview
+a:|:Phase:|:Phase
+a:|:Phase Deleted!:|:Phase Deleted!
+a:|:Phase Moved!:|:Phase Moved!
+a:|:Phase Saved!:|:Phase Saved!
+a:|:Phases:|:Phases
+a:|:Printable Version:|:Printable Version
+a:|:Problem setting interruption time!:|:Problem setting interruption time!
+a:|:Problem setting phase!:|:Problem setting phase!
+a:|:Problem setting time!:|:Problem setting time!
+a:|:Remove Filter:|:Remove Filter
+a:|:Reset:|:Reset
+a:|:Save:|:Save
+a:|:Set Filter:|:Set Filter
+a:|:Settings:|:Settings
+a:|:Start:|:Start
+a:|:There was an error saving the settings.:|:There was an error saving the settings.
+a:|:Time Log:|:Time Log
+a:|:Time Log Entries:|:Time Log Entries
+a:|:Time Log Entry Deleted!:|:Time Log Entry Deleted!
+a:|:Time Log Entry Saved!:|:Time Log Entry Saved!
+a:|:Time Log entry was not deleted!:|:Time Log entry was not deleted!
+a:|:Time Log Filter:|:Time Log Filter
+a:|:Total:|:Total
+a:|:Up:|:Up
+a:|:Updated:|:Updated
+a:|:View:|:View
+a:|:Yes:|:Yes
+a:|:Your settings have been successfully saved.:|:Your settings have been successfully saved.

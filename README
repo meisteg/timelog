@@ -1,0 +1,18 @@
+phpwsTimeLog - phpWebSite Time Log Module
+
+CHANGELOG
+---------
+See docs/ChangeLog for history of changes.
+
+INSTALLATION
+------------
+See docs/INSTALL.txt for installation instructions.
+
+LICENSE
+-------
+This software is licensed for use under the GNU GPL v2.
+See docs/COPYING for the full text of the license.
+
+VERSION
+-------
+Version is listed as $version in conf/boost.php

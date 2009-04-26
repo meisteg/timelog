@@ -1,0 +1,4 @@
+add_entries::Add Time Log Entries
+edit_entries::Edit Time Log Entries
+delete_entries::Delete Time Log Entries
+edit_settings::Edit Settings

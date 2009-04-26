@@ -1,0 +1,67 @@
+# ChangeLog for phpwsTimeLog
+# $Id: ChangeLog,v 1.20 2006/03/19 17:15:17 blindman1344 Exp $
+
+
+*phpwstimelog-0.4.1 (19 Mar 2006)
+
+    18 Mar 2006; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    RFE #1450944: Support international date formats.
+
+    16 Mar 2006; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    BUG #1450942: Fixed entry saving when site set to 24 hour time.
+
+*phpwstimelog-0.4.0 (12 Mar 2006)
+
+    12 Mar 2006; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Output now is XHTML Strict compliant.
+
+    11 Mar 2006; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Timelog menu now positioned by templates.
+    Code cleanup.
+    RFE #1144406: Added phase editing/ordering through settings page.
+
+*phpwstimelog-0.3.2 (06 Feb 2005)
+
+    06 Feb 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Fixed installation bug on branch sites.  Why wasn't this noticed sooner?
+
+*phpwstimelog-0.3.1 (07 Jan 2005)
+
+    07 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    BUG #1098319: Now prevents against overwriting an entry when multiple
+                  tabs/windows are open.
+    Changed a few $_REQUEST vars to $_POST
+
+    06 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Fixed JavaScript error in add/edit form when invoking Spell Check
+
+    28 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    BUG #1092481: Fixed undefined index notices in TimeLogManager.php
+
+*phpwstimelog-0.3.0 (23 Dec 2004)
+
+    23 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Tested module.  Release early, release often!
+
+    21 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    RFE #1086208: Can now filter overview and detailed entry list pages to view
+                  times within a specified time range.
+
+*phpwstimelog-0.2.0 (20 Dec 2004)
+
+    20 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Fixed a few bugs with CSV downloads
+
+    19 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Fixed phase labels by removing new lines
+    Added "Edit" link to time log entry view
+    RFE #1086207: Print/CSV download added to overview, CSV added to entry list
+    Added overflow style to overview table
+
+*phpwstimelog-0.1.0 (14 Dec 2004)
+
+    14 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Development hopefully done.  It's show time!
+
+    05 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Starting development

@@ -1,0 +1,8 @@
+Planning
+Design
+Design Review
+Coding
+Code Review
+Compile
+Test
+Postmortem
